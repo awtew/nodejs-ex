@@ -190,9 +190,6 @@
             }
           },
           "spec": {
-            "securityContext": {
-              "supplementalGroups": [65534]
-            },
             "containers": [
               {
                 "name": "nodejs-mongodb-example",
